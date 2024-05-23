@@ -1,0 +1,9 @@
+2024-05-23T15:27:59.982+07:00  INFO 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : Starting FileOutputTest using Java 22.0.1 with PID 2644 (started by Nitro in C:\Users\Nitro\Workspace\Projects\jvm\spring-logging)
+2024-05-23T15:27:59.983+07:00 DEBUG 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-23T15:27:59.984+07:00  INFO 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : No active profile set, falling back to 1 default profile: "default"
+2024-05-23T15:28:00.595+07:00  INFO 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : Started FileOutputTest in 1.089 seconds (process running for 2.195)
+2024-05-23T15:28:01.497+07:00 TRACE 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : This is trace log
+2024-05-23T15:28:01.498+07:00 DEBUG 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : This is debug log
+2024-05-23T15:28:01.498+07:00  INFO 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : This is info log
+2024-05-23T15:28:01.498+07:00  WARN 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : This is warn log
+2024-05-23T15:28:01.498+07:00 ERROR 2644 --- [spring-logging] [main] c.c.s.c_file_output.FileOutputTest       : This is error log
